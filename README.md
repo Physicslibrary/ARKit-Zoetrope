@@ -58,12 +58,12 @@ If frame rate <60Hz, hold iPad still, swipe up from bottom edge of screen for HO
 
 # Credits
 
-zoetrope.obj, zoetrope.jpg (derived from https://ingeniumcanada.org/ingenium/doc/education-programs/cstmc/zoetrope-artifact.stl)
-Copyright: Canada Science and Technology Museums Corporation
-https://ingeniumcanada.org/ingenium/doc/content/cstmc/CSTMC%20terms%20of%20use%203D%20ENG.pdf
+zoetrope.obj, zoetrope.jpg (derived from https://ingeniumcanada.org/ingenium/doc/education-programs/cstmc/zoetrope-artifact.stl)<br>
+Copyright: Canada Science and Technology Museums Corporation<br>
 
-elephant.jpg (derived from https://techno-science.ca/doc/education-programs/Zoetrope%20strips.pdf)
-Copyright: Canada Science and Technology Museums Corporation
+elephant.jpg (derived from https://techno-science.ca/doc/education-programs/Zoetrope%20strips.pdf)<br>
+Copyright: Canada Science and Technology Museums Corporation<br>
+
 https://ingeniumcanada.org/ingenium/doc/content/cstmc/CSTMC%20terms%20of%20use%203D%20ENG.pdf
 
 # References
