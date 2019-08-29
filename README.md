@@ -44,11 +44,34 @@ Copy and paste learn.swift.
 
 Add the following files to Swift Playgrounds by tap "+", tap paper icon, and "Insert From...":
 
-zoetrope.obj, zoetrope.jpg, cylinder.obj, and elephant.jpg.
+zoetrope.obj, zoetrope.jpg, cylinder.obj, and elephant.jpg
 
 Tap "Run My Code".
 
+The default learn.swift is the second image above.
+
+To replicate the first image, uncomment:
+
+node.geometry?.firstMaterial?.emission.contents = UIImage(named: "zoetrope.jpg")<br>
+node.geometry?.firstMaterial?.isDoubleSided = false<br>
+
+comment out:
+
+node.geometry?.firstMaterial?.fillMode = .lines<br>
+node.geometry?.firstMaterial?.emission.contents = UIColor.orange<br>
+node.geometry?.firstMaterial?.isDoubleSided = true<br>
+
+change duration to 1 in:
+
+let rotate = SCNAction.repeatForever(SCNAction.rotate(by: .pi, around: SCNVector3(0,1,0), duration: 0.1083))<br>
+
+and uncomment:
+
+node.runAction(rotate)<br>
+
 Tips:
+
+"Run My Code" with "Enable Results" to turn off Swift Playgrounds logging every objects created during runtime (little boxes that appears on the right side when "Run My Code", useful for inspection and debugging but consume memory).
 
 This playground doesn't look for a flat plane to put virtual objects on, instead the initial position of the iPad is the world origin when "Run My Code" is pressed.
 
