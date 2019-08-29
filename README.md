@@ -6,11 +6,11 @@ The Canada Science and Technology Museums Corporation has released a 3D scan of 
 
 https://ingeniumcanada.org/ingenium/doc/education-programs/cstmc/zoetrope-artifact.stl
 
-Difficult to observe the elephant animation when rotating the zoetrope because not only the slits are on and off rapidly but the iPad is also redrawing the screen at 60 frames per second. 
+May be hard to observe the elephant animation when rotating the zoetrope because not only the slits are on and off rapidly but the iPad is also redrawing the screen at 60 frames per second.
 
 <img src="1.png" width="640">
 
-Experiment with keeping zoetrope.obj stationary and rotating elephant.jpg texture mapped to a cylinder. On a 2018 9.7" iPad, the elephant is jumping over a stationary platform.
+Experiment with wireframe zoetrope.obj stationary and rotating elephant.jpg texture mapped to a cylinder. On a 2018 9.7" iPad, the elephant is jumping over a stationary platform.
 
 <img src="2.png" width="640">
 
