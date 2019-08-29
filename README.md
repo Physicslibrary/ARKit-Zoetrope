@@ -42,9 +42,9 @@ Start with a Blank template in Swift Playgrounds.
 
 Copy and paste learn.swift.
 
-Add files in Swift Playgrounds by tap "+", tap paper icon, and "Insert From...".
+Add the following files to Swift Playgrounds by tap "+", tap paper icon, and "Insert From...":
 
-Add zoetrope.obj, zoetrope.jpg, cylinder.obj, and elephant.jpg.
+zoetrope.obj, zoetrope.jpg, cylinder.obj, and elephant.jpg.
 
 Tap "Run My Code".
 
