@@ -6,8 +6,6 @@ The Canada Science and Technology Museums Corporation has released a 3D scan of 
 
 https://ingeniumcanada.org/ingenium/doc/education-programs/cstmc/zoetrope-artifact.stl
 
-Blender is used to decimate the 17MB file zoetrope-artifact.stl to a smaller 4MB zoetrope.obj for a mobile device. A texture map is Cycles baked with a point light source to give zoetrope.jpg.
-
 Difficult to observe the elephant animation when rotating the zoetrope because not only the slits are on and off rapidly but the iPad is also redrawing the screen at 60 frames per second. 
 
 <img src="1.png" width="640">
@@ -31,6 +29,12 @@ Blender 2.80 (optional) (https://www.blender.org/)
 GIMP 2.10.8 or later (optional) (https://www.gimp.org/)
 
 Note - Blender and GIMP are not available on iOS. They are used on other platforms to create content for Playgrounds.
+
+Blender is used to decimate the 17MB file zoetrope-artifact.stl to a smaller 4MB zoetrope.obj for a mobile device. A texture map is Cycles baked with a point light source to give zoetrope.jpg.
+
+GIMP is used to make strips from 
+
+https://techno-science.ca/doc/education-programs/Zoetrope%20strips.pdf
 
 # Tutorial
 
@@ -67,3 +71,14 @@ https://ingeniumcanada.org/ingenium/doc/content/cstmc/CSTMC%20terms%20of%20use%2
 https://ingeniumcanada.org/ingenium/museums/education/3D-zoetrope.php
 
 https://ingeniumcanada.org/channel/articles/educational-resources-put-3d-artifacts-hands-canadian-students
+
+https://en.wikipedia.org/wiki/Zoetrope
+
+3D Zoetropes!
+
+https://www.youtube.com/watch?v=40__creuq7c
+
+https://www.youtube.com/watch?v=3-rPn0a56WE
+
+https://www.youtube.com/watch?v=mAflS_s_aqo
+
