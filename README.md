@@ -2,6 +2,10 @@
 
 Explore a zoetrope with ARKit.
 
+<img src="1.png" width="640">
+
+<img src="2.png" width="640">
+
 # Hardware
 
 Tested on Apple 2018 9.7" iPad (A9 CPU or higher for ARKit) but should work on any iPad supporting ARKit.
