@@ -12,7 +12,7 @@ Difficult to observe the elephant animation when rotating the zoetrope because n
 
 <img src="1.png" width="640">
 
-Experiment with keeping zoetrope.obj stationary and rotating elephant.jpg texture mapped to a cylinder.
+Experiment with keeping zoetrope.obj stationary and rotating elephant.jpg texture mapped to a cylinder. On a 2018 9.7" iPad, the elephant is jumping over a stationary platform.
 
 <img src="2.png" width="640">
 
