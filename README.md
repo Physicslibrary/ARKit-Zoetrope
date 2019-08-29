@@ -18,9 +18,7 @@ Experiment with keeping zoetrope.obj stationary and rotating elephant.jpg textur
 
 # Hardware
 
-Tested on Apple 2018 9.7" iPad (A9 CPU or higher for ARKit) but should work on any iPad supporting ARKit.
-The reason is that stereoscope (dependent on screen dimensions) is off.
-
+Tested on Apple 2018 9.7" iPad (A9 CPU or higher for ARKit) but should work on any iPad supporting ARKit (stereoscope, dependent on screen dimensions, is off).
 
 # Software
 
@@ -28,11 +26,9 @@ Apple Swift Playgrounds 3.0 from iOS App Store. Swift Playgrounds lets kids 4+ p
 
 https://www.apple.com/ca/swift/playgrounds/
 
-ARKit and SceneKit (set up scene, read 3D files, attact a virtual camera for lefteye to ARKit iPad camera righteye to make a stereoscope, 6DOF tracking)
-
 Blender 2.80 (optional) (https://www.blender.org/)
 
-GIMP 2.10.8 (optional) (https://www.gimp.org/)
+GIMP 2.10.8 or later (optional) (https://www.gimp.org/)
 
 Note - Blender and GIMP are not available on iOS. They are used on other platforms to create content for Playgrounds.
 
