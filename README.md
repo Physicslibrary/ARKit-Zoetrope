@@ -10,6 +10,8 @@ May be hard to observe the elephant animation when rotating the zoetrope because
 
 <img src="1.png" width="640">
 
+Perhaps this can be observe in the real world with a spinning zoetrope and light source flashing at 60Hz.
+
 Experiment with wireframe zoetrope.obj stationary and rotating elephant.jpg texture mapped to a cylinder. On a 2018 9.7" iPad, the elephant is jumping over a stationary platform.
 
 <img src="2.png" width="640">
@@ -61,7 +63,7 @@ node.geometry?.firstMaterial?.fillMode = .lines<br>
 node.geometry?.firstMaterial?.emission.contents = UIColor.orange<br>
 node.geometry?.firstMaterial?.isDoubleSided = true<br>
 
-change duration to 1 in:
+change duration to 1:
 
 let rotate = SCNAction.repeatForever(SCNAction.rotate(by: .pi, around: SCNVector3(0,1,0), duration: 0.1083))<br>
 
