@@ -2,7 +2,17 @@
 
 Explore a zoetrope with ARKit.
 
+The Canada Science and Technology Museums Corporation has released a 3D scan of a zoetrope in their collection.
+
+https://ingeniumcanada.org/ingenium/doc/education-programs/cstmc/zoetrope-artifact.stl
+
+Blender is used to decimate the 17MB file zoetrope-artifact.stl to a smaller 4MB zoetrope.obj for a mobile device. A texture map is Cycles baked with a point light source to give zoetrope.jpg.
+
+Difficult to observe the elephant animation when rotating the zoetrope because not only the slits are on and off rapidly but the iPad is also redrawing the screen at 60 frames per second. 
+
 <img src="1.png" width="640">
+
+Experiment with keeping zoetrope.obj stationary and rotating the elephant.jpg mapped to a cylinder.
 
 <img src="2.png" width="640">
 
