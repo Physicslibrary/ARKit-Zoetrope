@@ -73,7 +73,7 @@ node.runAction(rotate)<br>
 
 Tips:
 
-"Run My Code" with "Enable Results" to turn off Swift Playgrounds logging every objects created during runtime (little boxes that appears on the right side when "Run My Code", useful for inspection and debugging but consume memory).
+"Run My Code" with "Enable Results" off to disable Swift Playgrounds logging every objects created during runtime (little boxes that appears on the right side when "Run My Code", useful for inspection and debugging but consume memory).
 
 This playground doesn't look for a flat plane to put virtual objects on, instead the initial position of the iPad is the world origin when "Run My Code" is pressed.
 
