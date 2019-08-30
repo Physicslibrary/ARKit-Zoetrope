@@ -34,7 +34,7 @@ Note - Blender and GIMP are not available on iOS. They are used on other platfor
 
 Blender is used to decimate the 17MB file zoetrope-artifact.stl to a smaller 4MB zoetrope.obj for a mobile device. A texture map is Cycles baked with a point light source to give zoetrope.jpg.
 
-GIMP is used to make strips from 
+GIMP is used to make elephant.jpg strip from 
 
 https://techno-science.ca/doc/education-programs/Zoetrope%20strips.pdf
 
