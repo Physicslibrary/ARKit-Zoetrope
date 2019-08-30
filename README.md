@@ -1,4 +1,4 @@
-# ARKit-Zoetrope (under construction)
+# ARKit-Zoetrope
 
 Explore a zoetrope with ARKit.
 
